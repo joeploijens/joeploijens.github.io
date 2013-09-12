@@ -1,0 +1,31 @@
+html {
+    color: #222;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+a, a:link {
+    color: #ff9900;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #ff9900;
+}
+
+a:hover {
+    color: #ff6600;
+}
+
+a:active {
+    color: #ff6600;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 300;
+}
